@@ -8,6 +8,9 @@
         },
         {
             "m_Id": "37060967e4a34e45800c4235cd40e539"
+        },
+        {
+            "m_Id": "429fe5348ba047fd9866406342020998"
         }
     ],
     "m_Keywords": [],
@@ -53,6 +56,9 @@
         },
         {
             "m_Id": "1780328a38cb4c99a262df6a32860f26"
+        },
+        {
+            "m_Id": "76ee6c5459e548a196caf678ec140623"
         }
     ],
     "m_GroupDatas": [],
@@ -89,13 +95,27 @@
         {
             "m_OutputSlot": {
                 "m_Node": {
+                    "m_Id": "76ee6c5459e548a196caf678ec140623"
+                },
+                "m_SlotId": 0
+            },
+            "m_InputSlot": {
+                "m_Node": {
+                    "m_Id": "0dba0121cf70482983ed1887b4e53298"
+                },
+                "m_SlotId": 0
+            }
+        },
+        {
+            "m_OutputSlot": {
+                "m_Node": {
                     "m_Id": "8789dffc7e464856b8f3196d57e5df8f"
                 },
                 "m_SlotId": 7
             },
             "m_InputSlot": {
                 "m_Node": {
-                    "m_Id": "0dba0121cf70482983ed1887b4e53298"
+                    "m_Id": "846a3153592a4a609375f622314b52b6"
                 },
                 "m_SlotId": 0
             }
@@ -585,6 +605,36 @@
 }
 
 {
+    "m_SGVersion": 3,
+    "m_Type": "UnityEditor.ShaderGraph.Internal.ColorShaderProperty",
+    "m_ObjectId": "429fe5348ba047fd9866406342020998",
+    "m_Guid": {
+        "m_GuidSerialized": "7e4ddbf6-804b-4d40-83a1-0376ff36f5b5"
+    },
+    "m_Name": "ColorViento",
+    "m_DefaultRefNameVersion": 1,
+    "m_RefNameGeneratedByDisplayName": "ColorViento",
+    "m_DefaultReferenceName": "_ColorViento",
+    "m_OverrideReferenceName": "",
+    "m_GeneratePropertyBlock": true,
+    "m_UseCustomSlotLabel": false,
+    "m_CustomSlotLabel": "",
+    "m_DismissedVersion": 0,
+    "m_Precision": 0,
+    "overrideHLSLDeclaration": false,
+    "hlslDeclarationOverride": 0,
+    "m_Hidden": false,
+    "m_Value": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+    },
+    "isMainColor": false,
+    "m_ColorMode": 0
+}
+
+{
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.Internal.Texture2DShaderProperty",
     "m_ObjectId": "4d97324216ea41afb659b644204fb745",
@@ -866,6 +916,42 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
+    "m_ObjectId": "76ee6c5459e548a196caf678ec140623",
+    "m_Group": {
+        "m_Id": ""
+    },
+    "m_Name": "Property",
+    "m_DrawState": {
+        "m_Expanded": true,
+        "m_Position": {
+            "serializedVersion": "2",
+            "x": -406.0,
+            "y": 184.99996948242188,
+            "width": 138.99993896484376,
+            "height": 34.000030517578128
+        }
+    },
+    "m_Slots": [
+        {
+            "m_Id": "7ab68dc23b9048358b9a1bed82e62ec8"
+        }
+    ],
+    "synonyms": [],
+    "m_Precision": 0,
+    "m_PreviewExpanded": true,
+    "m_DismissedVersion": 0,
+    "m_PreviewMode": 0,
+    "m_CustomColors": {
+        "m_SerializableColors": []
+    },
+    "m_Property": {
+        "m_Id": "429fe5348ba047fd9866406342020998"
+    }
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.Vector2MaterialSlot",
     "m_ObjectId": "7759cd5506af4eaabc0412f578ee6222",
     "m_Id": 1,
@@ -896,6 +982,9 @@
         },
         {
             "m_Id": "37060967e4a34e45800c4235cd40e539"
+        },
+        {
+            "m_Id": "429fe5348ba047fd9866406342020998"
         }
     ]
 }
@@ -925,6 +1014,31 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "RGBA",
     "m_StageCapability": 2,
+    "m_Value": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+    },
+    "m_DefaultValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+    },
+    "m_Labels": []
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.Vector4MaterialSlot",
+    "m_ObjectId": "7ab68dc23b9048358b9a1bed82e62ec8",
+    "m_Id": 0,
+    "m_DisplayName": "ColorViento",
+    "m_SlotType": 1,
+    "m_Hidden": false,
+    "m_ShaderOutputName": "Out",
+    "m_StageCapability": 3,
     "m_Value": {
         "x": 0.0,
         "y": 0.0,
