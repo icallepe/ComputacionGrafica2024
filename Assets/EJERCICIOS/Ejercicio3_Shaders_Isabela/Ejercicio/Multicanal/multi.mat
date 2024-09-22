@@ -133,12 +133,12 @@ Material:
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Blue: {r: -5.43, g: 4.54, b: -3.32, a: 0}
-    - _BlueChannelColor: {r: 0, g: 0.06299877, b: 1, a: 0}
+    - _BlueChannelColor: {r: 0, g: 0.062745094, b: 1, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _Green: {r: 14.84, g: 0.54, b: 10.15, a: 0}
-    - _GreenChannelColor: {r: 0.12700236, g: 1, b: 0, a: 0}
+    - _GreenChannelColor: {r: 0.416309, g: 1, b: 0, a: 0}
     - _Red: {r: 5.55, g: 20.51, b: 0, a: 0}
-    - _RedChannelColor: {r: 0.9415914, g: 0.081491195, b: 0.081491195, a: 0}
+    - _RedChannelColor: {r: 1, g: 0, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
