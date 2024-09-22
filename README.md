@@ -9,4 +9,4 @@ Tercer entrega Shaders: https://youtu.be/4s-rudTWWNA
 
 multicanal 
  
-![image](D:\isabe\Documents\UNIVERSIDAD\OCTAVO SEMESTRE\COMPUTACION GRAFICA\multicanal.png)
+![image](https://github.com/icallepe/ComputacionGrafica2024/blob/main/Assets/Shader/multicanal.png)
