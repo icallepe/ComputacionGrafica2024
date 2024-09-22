@@ -10,3 +10,8 @@ Tercer entrega Shaders: https://youtu.be/4s-rudTWWNA
 multicanal 
  
 ![image](https://github.com/icallepe/ComputacionGrafica2024/blob/main/Assets/Shader/multicanal.png)
+
+Coordenada Polar
+![image](https://github.com/icallepe/ComputacionGrafica2024/blob/main/Assets/Shader/polar.png)
+
+
