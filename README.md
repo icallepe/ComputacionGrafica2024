@@ -14,4 +14,9 @@ multicanal
 Coordenada Polar
 ![image](https://github.com/icallepe/ComputacionGrafica2024/blob/main/Assets/Shader/polar.png)
 
+Cuarta entrega
+video YouTube
+https://youtu.be/7FIdaoVbcAo
+
+
 
