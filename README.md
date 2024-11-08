@@ -20,6 +20,7 @@ https://youtu.be/7FIdaoVbcAo
 
 FINAL
 Video YouTube:https://youtu.be/HxwwDg4GUzg
+ITCH.IO:https://icallepe.itch.io/cg-final
 
 
 
